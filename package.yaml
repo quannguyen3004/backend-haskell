@@ -1,0 +1,42 @@
+name:                backend-haskell
+version:             0.1.0.0
+
+dependencies:
+# Các thư viện gốc
+- base >= 4.7 && < 5
+- text
+- aeson
+- websockets
+- wai
+- wai-websockets
+- wai-cors
+- warp
+- containers
+- stm
+- servant
+- servant-server
+- servant-websockets
+- http-types
+
+# Các thư viện đã thêm để sửa lỗi
+- time                  # Cho Data.Time (UTCTime)
+- mtl                   # Cho Control.Monad.Reader
+- monad-logger          # Cho Control.Monad.Logger
+- persistent            # Thư viện CSDL chính
+- persistent-sqlite     # Cho Database.Persist.Sqlite
+- persistent-template   # Cho Database.Persist.TH
+- bytestring            # Cho Data.ByteString.Lazy
+
+library:
+  source-dirs: src
+
+executables:
+  backend-haskell-exe:
+    main:                Main.hs
+    source-dirs:         src
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - backend-haskell

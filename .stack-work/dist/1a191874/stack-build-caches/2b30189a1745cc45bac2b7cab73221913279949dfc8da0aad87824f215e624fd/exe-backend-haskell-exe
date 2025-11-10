@@ -1,0 +1,256 @@
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\Win32-2.14.1.0-26c4\libHSWin32-2.14.1.0-26c4.a
+: hash: babd70bf5e6c7569485f8ce87cf6d84f60edd7f424e68c7ce65131300bc5cabd
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\array-0.5.8.0-8f57\libHSarray-0.5.8.0-8f57.a
+: hash: d8cad708d3b1378935390382e54392ab1f0d2c5fa325f3ccebfbf0eb78768979
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\base-4.20.2.0-39f9\libHSbase-4.20.2.0-39f9.a
+: hash: 9f4a5236140b7f57429b670f3ddd1e0a76c63f9408ed9d9ac327dad45684b61c
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\binary-0.8.9.3-3f67\libHSbinary-0.8.9.3-3f67.a
+: hash: 7e214af22388c1c12467570dbba41123cc395209e36132950f506992e7cb4da0
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\bytestring-0.12.2.0-152e\libHSbytestring-0.12.2.0-152e.a
+: hash: 7386a9b896a60a51779ec9bf1d1d2056bf6890a58fdcc19bdb1a659a20e33af0
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\containers-0.7-c2a5\libHScontainers-0.7-c2a5.a
+: hash: aaaf1799914227329d0fe72f333592f6327d0909ef59744b3b017a0aadaf1497
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\deepseq-1.5.0.0-7c06\libHSdeepseq-1.5.0.0-7c06.a
+: hash: c9a760ac9dc994fe61dc08b921f0af3cb4a15ee5b406ed0a6a0fc6ca8ca12b4b
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\directory-1.3.8.5-1ef4\libHSdirectory-1.3.8.5-1ef4.a
+: hash: 271cc623fc890a2b7ffdeaa3db5af8867f77a66697773cf8e564b2a0debf3b9c
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\exceptions-0.10.9-6bc3\libHSexceptions-0.10.9-6bc3.a
+: hash: 73a1a1bf707e5eec8075c0e8b531c68108e1ebf0db6fab922b1008ddb4e246f3
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\filepath-1.5.4.0-ac7e\libHSfilepath-1.5.4.0-ac7e.a
+: hash: b86de0af526191226206f4e73cd0c7d0eaaec67e25de97209486e69512d37510
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\ghc-bignum-1.3-cba1\libHSghc-bignum-1.3-cba1.a
+: hash: 6011bb714c45e3d06e904fd8ec73ba91f3061832aff01e928f21b7c4cb2c2432
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\ghc-boot-th-9.10.3-8368\libHSghc-boot-th-9.10.3-8368.a
+: hash: 31e1525ed5af458710bb1a604b6330b5fa3d525970aa9d522e19a16e88d676a0
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\ghc-internal-9.1003.0-57e0\libHSghc-internal-9.1003.0-57e0.a
+: hash: 2eba7d2219b214da3a045a5f5bf16e936f777f78c4f1e45300502e532838f520
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\ghc-prim-0.12.0-fb7e\libHSghc-prim-0.12.0-fb7e.a
+: hash: 6e1404f0acf5e734f773310375e960dd515c6dc08536002951d4c436e67fd362
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\mtl-2.3.1-6137\libHSmtl-2.3.1-6137.a
+: hash: e71b9453db0a734996cad22684aec7da85c350a58eff944a5ee4c1ee9ccf3383
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\os-string-2.0.7-6609\libHSos-string-2.0.7-6609.a
+: hash: fb591ab9bcb4a390a793c57a532578112d77a0419d4b46fdc98cd0ae50b5b23b
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\parsec-3.1.18.0-77d1\libHSparsec-3.1.18.0-77d1.a
+: hash: 76058ea78eb110a243c189668bd1ca3b6f245e12928d427561efd44ac789c2b6
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\pretty-1.1.3.6-e5cd\libHSpretty-1.1.3.6-e5cd.a
+: hash: 9bc1532456c4a3c4bb88b6cae8d2b01379387b1248c14aaeb3a1344686c79f66
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\process-1.6.26.1-10ef\libHSprocess-1.6.26.1-10ef.a
+: hash: 39aa7e8957470c422e7076e8d192ba3d6a614bd454d5c2a111957b9a9f0cc98d
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\rts-1.0.2\include\ghcversion.h
+: hash: 7038bb968ecc358729edd5d1e72a638409aaf5ea6ab13ce6ec7f253daa3b6529
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\stm-2.5.3.1-7044\libHSstm-2.5.3.1-7044.a
+: hash: 9937c452cc1f05271c5490267e51b7ce7071c1e61540e33ac03e83c3a8c3b924
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\template-haskell-2.22.0.0-2593\libHStemplate-haskell-2.22.0.0-2593.a
+: hash: e19009d285e1786f70b6d296ff529c9924b603009438d31ad77ee759b9816858
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\text-2.1.3-6dfe\libHStext-2.1.3-6dfe.a
+: hash: 08066d39623d7326b2b673ac224e29d1825bf9ef847d2c85576b2d2a6576bd0e
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\time-1.12.2-e9ff\libHStime-1.12.2-e9ff.a
+: hash: c5679a3ba8fd19efcc505ab2168872dd1c40dcefaa7748051035447351b706da
+? C:\Users\Admin\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\transformers-0.6.1.1-bf2e\libHStransformers-0.6.1.1-bf2e.a
+: hash: e1b584932249251411a59afb1042b090f96e37b65aea42dab2036a9a91f49881
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\OneTuple-0.4.2-9Tzh0V5Wlg5ImirLsba4JZ\libHSOneTuple-0.4.2-9Tzh0V5Wlg5ImirLsba4JZ.a
+: hash: 10c1d6e8c46e869cf21ca24e916531cb3ce6f98420ba2e690c70ded540c33f28
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\QuickCheck-2.15.0.1-838Iu5BMJmZFXxsMLTJ2gR\libHSQuickCheck-2.15.0.1-838Iu5BMJmZFXxsMLTJ2gR.a
+: hash: 337ba2feb9bd515a6477d2bba60a5602397bbeb2489497d6319b97ce8e22e02e
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\StateVar-1.2.2-CdQlFIDAcAmBWGT95jJYkz\libHSStateVar-1.2.2-CdQlFIDAcAmBWGT95jJYkz.a
+: hash: 2e1564a477baba982ed8c524e22a75af0434c3be43b6765e71275a9ef7588629
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\assoc-1.1.1-F1tRInYZuki6uqqOQoYdnz\libHSassoc-1.1.1-F1tRInYZuki6uqqOQoYdnz.a
+: hash: 8220b8445b053299a8c940a0769729a3a785f407961fad3267b35554e3408f23
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\async-2.2.5-7jmQcdKii61GBH0A09MXog\libHSasync-2.2.5-7jmQcdKii61GBH0A09MXog.a
+: hash: 0b3c8e1b8f753aa6029b4bd4ae4943f56ce480d87ba3225b71c048e7b82d572c
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\attoparsec-0.14.4-8vrU6QMzl8tHrTXzxZjRx0-attoparsec-internal\libHSattoparsec-0.14.4-8vrU6QMzl8tHrTXzxZjRx0-attoparsec-internal.a
+: hash: dfb908d79159228cd4ea764296ef9ac813649e03108d27117ee70958909f6e47
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\attoparsec-0.14.4-Iw0afLdBvDs9TlSTUYw4fu\libHSattoparsec-0.14.4-Iw0afLdBvDs9TlSTUYw4fu.a
+: hash: cad6ada10dc19804e112d036c74bea936b1bb472a56706aa160436f3f9468013
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\auto-update-0.2.6-KrQoCRuBmRbKez78OFCI3z\libHSauto-update-0.2.6-KrQoCRuBmRbKez78OFCI3z.a
+: hash: c864da9cd1905928bf7af7702bbe2e6e7138fa5363880ab690587789883e646c
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\base-orphans-0.9.3-HZJXOK2Cewi5oeLQBY1xsB\libHSbase-orphans-0.9.3-HZJXOK2Cewi5oeLQBY1xsB.a
+: hash: c8178911274333d411840d6d197677b61a2e2533633b59c9538a7eca8d2ca77b
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\base64-bytestring-1.2.1.0-K10QYHmlN9JHM40otEJGZw\libHSbase64-bytestring-1.2.1.0-K10QYHmlN9JHM40otEJGZw.a
+: hash: d3c421bbe0eaedaef012b8b3f0d10924d17de7153ee0c4a7fccd69251f6c0446
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\bifunctors-5.6.2-GLQEnCFpd9fJDvmO2ZfrG8\libHSbifunctors-5.6.2-GLQEnCFpd9fJDvmO2ZfrG8.a
+: hash: 0d22a0e4cc7cd5fed4b46cd8299eb163834556e76c1f670b10c3d91bc7d1ec42
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\blaze-builder-0.4.4.1-AVWwlViEKIK5GMrOtKO381\libHSblaze-builder-0.4.4.1-AVWwlViEKIK5GMrOtKO381.a
+: hash: a7a184b49c899f5e9826e6fef72ab343ee6612fd45322d16a747fbf72b12d018
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\blaze-html-0.9.2.0-7EVuP6t8aY5P5f8CDKQ41\libHSblaze-html-0.9.2.0-7EVuP6t8aY5P5f8CDKQ41.a
+: hash: 18a12b8ea184ffff3fb7b042c6708d6c386830955e1911016bc7de0d42c64954
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\blaze-markup-0.8.3.0-6YWPME8HJ265f4honPHgzv\libHSblaze-markup-0.8.3.0-6YWPME8HJ265f4honPHgzv.a
+: hash: ac30aa8663796acbf48ac2426dde2dca1926ac74a96bcef57075a21161934ee0
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\case-insensitive-1.2.1.0-BXxZ4HTRwEV2nEoqSs7Qp3\libHScase-insensitive-1.2.1.0-BXxZ4HTRwEV2nEoqSs7Qp3.a
+: hash: 880a3a67c40e2448f2bf9db7f67d8494d899e8091041776059c66f83403d9e87
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\character-ps-0.1-3EFF2jb53ueCJLrbs5J2DD\libHScharacter-ps-0.1-3EFF2jb53ueCJLrbs5J2DD.a
+: hash: d67d87426bf687b03203c991e412dc006977b318e23ea67cfc5f2d8c4f6e994a
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\comonad-5.0.9-Pc2tt1zRVYATWL9GMbFVv\libHScomonad-5.0.9-Pc2tt1zRVYATWL9GMbFVv.a
+: hash: a3e137e77262b94fbf59ffa0bb198ab9eab743cc292ab6526919dde7177502f4
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\contravariant-1.5.5-Bp4mUYKvWAt58ehubBInza\libHScontravariant-1.5.5-Bp4mUYKvWAt58ehubBInza.a
+: hash: e56cd789877f6ac4a13563fae5ea13048f7687ee450ba5b5d203d6e275031db9
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\cookie-0.5.1-KvKAG0Vne96Gj4tTNrNh31\libHScookie-0.5.1-KvKAG0Vne96Gj4tTNrNh31.a
+: hash: 201ed6066b41a7af42a62beb3320411f2bb1b079d255522556c4834c9de2d1ad
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\data-default-0.8.0.1-6a8IcuZWOkOC8in73iT7C9\libHSdata-default-0.8.0.1-6a8IcuZWOkOC8in73iT7C9.a
+: hash: 8bcf171636cfda582b8cab552a65ecb498d49ff5ad12db2f056cbef4b92aa83b
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\data-default-class-0.2.0.0-DrL4iXKnREH71HnZPl8M35\libHSdata-default-class-0.2.0.0-DrL4iXKnREH71HnZPl8M35.a
+: hash: 1c3cde02c9f168f2b74a1d8b761e01f4620db17591ed4ae54dc4742b1774fa75
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\data-fix-0.3.4-34H2OYzQOp8BkYd9YAKyS2\libHSdata-fix-0.3.4-34H2OYzQOp8BkYd9YAKyS2.a
+: hash: badf22d9f3c5da5c364a47fcae9dea9869c1eb97667dae74659075b302053058
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\distributive-0.6.2.1-CJII1NElZNEGnky40ztP5x\libHSdistributive-0.6.2.1-CJII1NElZNEGnky40ztP5x.a
+: hash: d71fe993ba2a7bce97276f0990c3c212304ff18b13611d90481b585aa0800517
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\dlist-1.0-LIJgHROZW4eEoOVqjqAw8z\libHSdlist-1.0-LIJgHROZW4eEoOVqjqAw8z.a
+: hash: 6e08c678649b19f5de162609073d50c78e2cd15d2b3029eb6303f7fbbe4c9d03
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\easy-file-0.2.5-5d0wKLTYnGQOQH8qgNuun\libHSeasy-file-0.2.5-5d0wKLTYnGQOQH8qgNuun.a
+: hash: 21a2a088076e72fcc11468257fbc2d3b06a1f8d28ac4bd11c9f481972ce06fc5
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\fast-logger-3.2.6-JNfi4SU8zgx9JYMWJrYGYa\libHSfast-logger-3.2.6-JNfi4SU8zgx9JYMWJrYGYa.a
+: hash: f5e7f8df70dde90a7b5f8695ebfcc1b1696e25c7bbc40dc5308178d742693b96
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\generically-0.1.1-6xLlCgoDurQ5qblaHhO341\libHSgenerically-0.1.1-6xLlCgoDurQ5qblaHhO341.a
+: hash: 1255338fd78d9dfeab2cd5c8bbcc7b9e4f0d8dbc280d7abc77c558259c595285
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\hashable-1.5.0.0-DbmJpv3DmLT6TfcMUH2Bgz\libHShashable-1.5.0.0-DbmJpv3DmLT6TfcMUH2Bgz.a
+: hash: 1f2c0ef55195e30354eb6b7844f6527c3941b371042a15b02815cde447ea756e
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\http-api-data-0.6.2-DvJ1zDjx1Yu7MOUIwvTUvs\libHShttp-api-data-0.6.2-DvJ1zDjx1Yu7MOUIwvTUvs.a
+: hash: d4d9c50b6562a53b439d7c2c8fae153b37a7fc9a9593edfdb30f5f798657254a
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\http-types-0.12.4-Bxu5xh6aU2x8Z6H5Kq48Tg\libHShttp-types-0.12.4-Bxu5xh6aU2x8Z6H5Kq48Tg.a
+: hash: 416464166188ec7e23a74795ab95827581f6cab04bbaf7a9077531982c924f28
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\indexed-traversable-0.1.4-K4NkRrHGTFu1Nbn5PNCEcJ\libHSindexed-traversable-0.1.4-K4NkRrHGTFu1Nbn5PNCEcJ.a
+: hash: db7eb873f5393fdc0b4d6725b254626dd606e9eb4a5b34c45c8aa52c21d7ccf0
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\integer-conversion-0.1.1-Aad9fcQUOKe7RDm3YFR1k4\libHSinteger-conversion-0.1.1-Aad9fcQUOKe7RDm3YFR1k4.a
+: hash: d78f1d5aadffb30b1ed66766e1e25ddc7f9a37b79da895dbd8b38ae730f2c093
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\integer-logarithms-1.0.4-EbIJLz6rLyN5H8mCismUqA\libHSinteger-logarithms-1.0.4-EbIJLz6rLyN5H8mCismUqA.a
+: hash: 514ccd931d7eec6dd566e1394f0cc1db634148756dfe7fe3ae26ac1a34eec091
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\monad-control-1.0.3.1-E7zOlyOrvjFIyTk5UsIPyW\libHSmonad-control-1.0.3.1-E7zOlyOrvjFIyTk5UsIPyW.a
+: hash: d5e4b8a5ba6d00926085c654c7a8d6f0d8446e0887e50eb7247d9d393b7f1d11
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\network-3.2.8.0-8rh4wQUAbJ1Dzk7DDptiuv\libHSnetwork-3.2.8.0-8rh4wQUAbJ1Dzk7DDptiuv.a
+: hash: f7ad81a7e70096e6eee0b4facf61ea9fe30d24afdc9cecac78ad9b091f604924
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\network-uri-2.6.4.2-675GCYSfGo21PX6SuPe2Bh\libHSnetwork-uri-2.6.4.2-675GCYSfGo21PX6SuPe2Bh.a
+: hash: 71f222d8cc3ea58bcbb88a04f9172288fe0c08e7aa682cda7243cb1d44ae8760
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\old-locale-1.0.0.7-5pETyRqv2xT3W03j20enMb\libHSold-locale-1.0.0.7-5pETyRqv2xT3W03j20enMb.a
+: hash: 615734021e7669546c68d71eb5f07036fe34458208a0b1b46e9f2aa8b61ee630
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\old-time-1.1.0.4-IFt9XjKzmFGLh59xew6oth\libHSold-time-1.1.0.4-IFt9XjKzmFGLh59xew6oth.a
+: hash: 0fea045d108a6404120b107fa6952e9aacad9ab91ff46ca65bbf941b49764e7f
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\primitive-0.9.1.0-J3r6YeobnGAGEBUMQvmr7K\libHSprimitive-0.9.1.0-J3r6YeobnGAGEBUMQvmr7K.a
+: hash: 2430858b69e7e11751d09de0d4112d55335db116a2f97df99dd3a93fcd3bf548
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\random-1.2.1.3-EWtzukwKSwXK8LEyWvuewB\libHSrandom-1.2.1.3-EWtzukwKSwXK8LEyWvuewB.a
+: hash: 71e6556f9b2476357eb886d911554d7d3c4fb18ae96365e369c509303c38c806
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\resourcet-1.3.0-1qYzbnFNQJxHPhm2TAGzUS\libHSresourcet-1.3.0-1qYzbnFNQJxHPhm2TAGzUS.a
+: hash: bbcf05b75619b0815348dcfe473acaeb80cee8c3ebf3438830e64ba33c7e6096
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\scientific-0.3.8.0-F1S1hSvV65u8UmA1OhtCCp\libHSscientific-0.3.8.0-F1S1hSvV65u8UmA1OhtCCp.a
+: hash: edf5c3f1faa9869c4fb6e072e9b216910b1f4cff2dd73740808c1d4f56bddc5c
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\semigroupoids-6.0.1-DmgnrH3kBvj8H6uIgtC8Yw\libHSsemigroupoids-6.0.1-DmgnrH3kBvj8H6uIgtC8Yw.a
+: hash: 5f94afd2ebc42fa00d60530f8e5ac0e6dec229cc9b50eb60117862411e375162
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\split-0.2.5-9SwWxHvdKMrFKiBWSzJCpr\libHSsplit-0.2.5-9SwWxHvdKMrFKiBWSzJCpr.a
+: hash: 499e3942f4831d281178a4f16e895bd7941cc5678a1b8f5fbe5aa4f8d329310b
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\splitmix-0.1.3.1-8M2Xp2Vsg0s9cc6WmpvGMe\libHSsplitmix-0.1.3.1-8M2Xp2Vsg0s9cc6WmpvGMe.a
+: hash: 7aceee52b32d6a7a0ccd1c85e5f7d72743cc35cd8deb44c74b0c08f88dd550fd
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\strict-0.5.1-9lNtb2SuNnOHsvBupdBwCg\libHSstrict-0.5.1-9lNtb2SuNnOHsvBupdBwCg.a
+: hash: 19d1a3f8486dabc86b14beca447d6a3a607c868218d5a9f78b236962148c2cfe
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\tagged-0.8.9-GiZ3Q6PUS2e4u0WV3yBrrc\libHStagged-0.8.9-GiZ3Q6PUS2e4u0WV3yBrrc.a
+: hash: 9d4e789b2633ee2d9970e142d3ed2b4b873c9a7b9e90e7e49b74f0985724cd89
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\temporary-1.3-5YwYnrrsAtpC1ADN8mKyk8\libHStemporary-1.3-5YwYnrrsAtpC1ADN8mKyk8.a
+: hash: fdf132346f6a17a8c55ebe2ac3e684dd31012ffb85c852ec30f5828ee3836a35
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\text-iso8601-0.1.1-JxTPeZ0PmumDqvj50j3nHR\libHStext-iso8601-0.1.1-JxTPeZ0PmumDqvj50j3nHR.a
+: hash: c89dfa6d72be07b444b263f66690d23c5a004e5b6af591b27cf002f3ebbb9a81
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\text-short-0.1.6-403TisBsYrCKpvxH5QljWW\libHStext-short-0.1.6-403TisBsYrCKpvxH5QljWW.a
+: hash: 5385ea86bd01411e207c2faefc206b8a4594a601c78b882c9642321070d01656
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\th-abstraction-0.7.1.0-IOaCbNZ95dIbayy8RFyno\libHSth-abstraction-0.7.1.0-IOaCbNZ95dIbayy8RFyno.a
+: hash: de8bf4e85b9e30bb2953077b2e41664d58526525d521813cd60e6558c71d86db
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\th-compat-0.1.6-AM0eqRaILCA2PwaSkRc2LV\libHSth-compat-0.1.6-AM0eqRaILCA2PwaSkRc2LV.a
+: hash: be36001c5dac977b2cb285087335a5fb8988c5d3d27f63aa87dc77c36d4a1c37
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\these-1.2.1-5BFe9zuPSGMGUlKf5HULoW\libHSthese-1.2.1-5BFe9zuPSGMGUlKf5HULoW.a
+: hash: 74570fc38907275d379c3509523ab57fde91df9f6225ca891ff00edeb309c27d
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\time-compat-1.9.8-LLH6G8YaaHqAlJSstXiLTd\libHStime-compat-1.9.8-LLH6G8YaaHqAlJSstXiLTd.a
+: hash: ac3d87bb1e8afacc680b4d124143c38bb95419b85ad14b81420a840f38d2ab5a
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\transformers-base-0.4.6-4iNHaaqx1IH6gD0CfLYsYv\libHStransformers-base-0.4.6-4iNHaaqx1IH6gD0CfLYsYv.a
+: hash: 8407ea9a8990b4212ce770e763d4b0fb3fa4fbdc137603f80dec3d9be140ecc5
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\transformers-compat-0.7.2-LV1Lgnz3YQs5EUts0LdS4j\libHStransformers-compat-0.7.2-LV1Lgnz3YQs5EUts0LdS4j.a
+: hash: d11207f48fe3a928c2d5548efcd9e2da67c953dd6944a34a063baf56bdefc9cc
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\typed-process-0.2.13.0-53mOyzVFPU82eLDGZQ9K91\libHStyped-process-0.2.13.0-53mOyzVFPU82eLDGZQ9K91.a
+: hash: dec1d625c5fa80000a192011f781cc7b7509f64aa67ad38bf142d9fed122f249
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\unix-compat-0.7.4.1-Jq1AVQuGLBX318OvaZsfZu\libHSunix-compat-0.7.4.1-Jq1AVQuGLBX318OvaZsfZu.a
+: hash: fa16b5ac2b7d876ca9a6e7be79de638c2a253c398e259f6517d8115c52ddae80
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\unix-time-0.4.17-6tnaND4RApe3CKA0nVwpRL\libHSunix-time-0.4.17-6tnaND4RApe3CKA0nVwpRL.a
+: hash: d3aea5ae5f5e4d7bd3519dcd0c81682c13ebb88076da4fbffa53bf01ae4729c0
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\unliftio-core-0.2.1.0-EOWsfHIBP5XHwYHKgn3gzj\libHSunliftio-core-0.2.1.0-EOWsfHIBP5XHwYHKgn3gzj.a
+: hash: 11ab9d8fe1b8bb7ae00413021c326317d6b4bd1a0fd85367378afee44df0cd5b
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\unordered-containers-0.2.20.1-L2NpMaziBySA53Ri7Bl82H\libHSunordered-containers-0.2.20.1-L2NpMaziBySA53Ri7Bl82H.a
+: hash: 7348d368ed8225694aa77b00dea202a72c9b3af73ef75ea341f63836ec3e2487
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\uuid-types-1.0.6-5BTkyeQzCsjJVbWYPcLVwt\libHSuuid-types-1.0.6-5BTkyeQzCsjJVbWYPcLVwt.a
+: hash: 2711a79fcd8c1da937d9a8c347a46ae917d8c97decf70952c3e91b16e617a086
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\vault-0.3.1.5-RGdLAmaOst8yGCplojWhj\libHSvault-0.3.1.5-RGdLAmaOst8yGCplojWhj.a
+: hash: 97a56f51f0deb73553638caccceff46ca4af8712fae184476bd0941945c83da5
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\vector-0.13.2.0-J4Mjnr8C6ABHSdGY1Zc3WN\libHSvector-0.13.2.0-J4Mjnr8C6ABHSdGY1Zc3WN.a
+: hash: 84670b340aeac425570a4956feab357dd5bbe37ec3864e15b914876596329f19
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\vector-stream-0.1.0.1-5DpMmcdsQHr6m9Wn9bWIWg\libHSvector-stream-0.1.0.1-5DpMmcdsQHr6m9Wn9bWIWg.a
+: hash: cdcea6f07a235f71fbede9beb5d261e15ad8e140f62513f0a0b542a1ae64f688
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\zlib-0.7.1.1-FSyI3GyOWhHENEiTJjNc6c\libHSzlib-0.7.1.1-FSyI3GyOWhHENEiTJjNc6c.a
+: hash: cd461decde296580fc4c6c45207a1816033fb24f79bb755e83fd09e938614e21
+? C:\sr\snapshots\5da63ed3\lib\x86_64-windows-ghc-9.10.3-b42a\zlib-clib-1.3.1-D3lTkoUM0Zw96xBv34Stte\libHSzlib-clib-1.3.1-D3lTkoUM0Zw96xBv34Stte.a
+: hash: 38fbb9f1742d882cf8b5c57fbb5ccaa3fbee659875cb030ef4195106f3c2ddee
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\aeson-2.2.3.0-1CiQOUts74WJ32rWfOsGUu\libHSaeson-2.2.3.0-1CiQOUts74WJ32rWfOsGUu.a
+: hash: ce4f47b4ca14243815acc0e01f1ab5bd45ae928a9f20fd04af62202f12521f32
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\attoparsec-aeson-2.2.2.0-LM28F6NQCY0AtGqUuykqU0\libHSattoparsec-aeson-2.2.2.0-LM28F6NQCY0AtGqUuykqU0.a
+: hash: 55741753227a237582617040cca6e8514674e7a3b238169ce12c3a7d7183342d
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\bitvec-1.1.5.0-7WIIsCVjCmL6acesMA4tnC\libHSbitvec-1.1.5.0-7WIIsCVjCmL6acesMA4tnC.a
+: hash: 66baa7f79139f90f13ddae43631ab2910ac4b16133ea9cc3bffda9d239cd9a37
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\conduit-1.3.6.1-89AjIHc96Eu8MADnCJxqR1\libHSconduit-1.3.6.1-89AjIHc96Eu8MADnCJxqR1.a
+: hash: 7d90809184a98159d4a9290b11673b55915fc779d49eeac528a4ff6e988e10e7
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\conduit-extra-1.3.8-5z1xCIdoHvhA8IdQrReuHz\libHSconduit-extra-1.3.8-5z1xCIdoHvhA8IdQrReuHz.a
+: hash: 250befce62de3f4c7fb3b78dff60837cd36932b6caa4163c82473755f01a7144
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\indexed-traversable-instances-0.1.2-8oao36yv9wL7YT6oHZcNLr\libHSindexed-traversable-instances-0.1.2-8oao36yv9wL7YT6oHZcNLr.a
+: hash: 841964692a64baecf19f2587afa3e95e795d419d1db05c19f713426fb1b6a49c
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\lift-type-0.1.2.0-FL11bhpZTN194FnQPmdzDv\libHSlift-type-0.1.2.0-FL11bhpZTN194FnQPmdzDv.a
+: hash: a1dbb850232a03733d9e988c0a0af3f1afd653bbd520c56659bfeab77ffd0ed2
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\lifted-base-0.2.3.12-CFcxLW5AH88D6vpU2rsXi4\libHSlifted-base-0.2.3.12-CFcxLW5AH88D6vpU2rsXi4.a
+: hash: 5b3bfd560b0a3b83380c2bde9fe57257d8e3f710f11a29dc4e7d7c5ec6f6d620
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\megaparsec-9.7.0-9mzqdkN470UFJ3jPRisMwF\libHSmegaparsec-9.7.0-9mzqdkN470UFJ3jPRisMwF.a
+: hash: 2600a7a17c434ff13bfa003d203482ed6eca393886c36f76774cd2de71070fa0
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\monad-logger-0.3.42-LJ2Y3UYyRQC5idcFF0ttFG\libHSmonad-logger-0.3.42-LJ2Y3UYyRQC5idcFF0ttFG.a
+: hash: 287e7f54cd3e02090d26d283c54b1abc7a82b9bec1d909862d85b612592eb904
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\monad-loops-0.4.3-Jr0GcsGqVpHIIBjb8aoW0y\libHSmonad-loops-0.4.3-Jr0GcsGqVpHIIBjb8aoW0y.a
+: hash: 89f1ef4b07a680f454eaa2a4727d0efe137b7e2e8813bc9bd2e7bdd0de57ec70
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\mono-traversable-1.0.21.0-2BGbHU9yK48ApCphw9z4cH\libHSmono-traversable-1.0.21.0-2BGbHU9yK48ApCphw9z4cH.a
+: hash: 606a9f85b2677adbf5ef9e308444f9b275af283e5926987c3bb2e4eef813964f
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\parser-combinators-1.3.0-J3Nvh3lyRMt12O3lLDQPrw\libHSparser-combinators-1.3.0-J3Nvh3lyRMt12O3lLDQPrw.a
+: hash: 0539e1b19d33f648702e3807d59c8290606592f5eff916841f412f066361a671
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\path-pieces-0.2.1-85ectxYjBW2AYFdhCuNQhR\libHSpath-pieces-0.2.1-85ectxYjBW2AYFdhCuNQhR.a
+: hash: 73ff8674c7c2314949a1bda49e8dc63b69582527fa5496b46dc042e14f973293
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\persistent-2.17.1.0-DAqCR1CRzdLBTZGSyBjK1q\libHSpersistent-2.17.1.0-DAqCR1CRzdLBTZGSyBjK1q.a
+: hash: 1a7ba984549660979024ca2dfbfc5829b779d6f8bf4bba47eb6e06a43b3b7504
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\replace-megaparsec-1.5.0.1-5SQDVPpjLVZCSZNMJrz7ij\libHSreplace-megaparsec-1.5.0.1-5SQDVPpjLVZCSZNMJrz7ij.a
+: hash: c8b22d177218a0233fe89f6275f288fc32ddf5b175bbad4c9056eac5b7f21715
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\resource-pool-0.4.0.0-6l55aHcaKfZLJC2HslOFGD\libHSresource-pool-0.4.0.0-6l55aHcaKfZLJC2HslOFGD.a
+: hash: 9b1ac29af698cbcaea81d8917cefa02f0cd34b68b4a744458574c911444adbd5
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\safe-exceptions-0.1.7.4-F1zsnGvmXFOIZgLv842iqL\libHSsafe-exceptions-0.1.7.4-F1zsnGvmXFOIZgLv842iqL.a
+: hash: 908b2015052e026f80df23c4c40c0a4015b23844203200e8e2071aed39284a53
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\semialign-1.3.1-3Fe5GfudFLQHyYx00L24pL\libHSsemialign-1.3.1-3Fe5GfudFLQHyYx00L24pL.a
+: hash: 190a0ccb4a5bf36d7a286efdf0cded5a68e782aae04655a66b315fd4b43bd946
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\silently-1.2.5.4-1VEonfAjxT93HDwtiQJ8tQ\libHSsilently-1.2.5.4-1VEonfAjxT93HDwtiQJ8tQ.a
+: hash: acabcd4b41f7668d1acdddddcecf9a3c31c85192fed1e600785e1f2309e65c5d
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\stm-chans-3.0.0.9-I7rC9ju8fmbKbUYHz6sTXh\libHSstm-chans-3.0.0.9-I7rC9ju8fmbKbUYHz6sTXh.a
+: hash: 74b0f7cc550f92a649297030c765400fa8ba71af70683d37d6319e767d545064
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\streaming-commons-0.2.3.1-JMBxYeSxjDW47vGxD2baPO\libHSstreaming-commons-0.2.3.1-JMBxYeSxjDW47vGxD2baPO.a
+: hash: 9a4e8968e6e49b91d809d55e6d8dc77714b38cca48a4b0daa4fd4013482ff140
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\th-lift-0.8.6-1AQkjsSuCc6FA0HDNcg7Sh\libHSth-lift-0.8.6-1AQkjsSuCc6FA0HDNcg7Sh.a
+: hash: 1c29c4aaba0de503f7218537c571325b61411d69c6e6d7af539dacfbef57f957
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\th-lift-instances-0.1.20-JjFP9ywFeFzKKAPx2qBjvP\libHSth-lift-instances-0.1.20-JjFP9ywFeFzKKAPx2qBjvP.a
+: hash: c9d16ee56dde03d0a75f98e0dea6555f8a02f843c8c074cbde2ed75c8dea5ce1
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\unliftio-0.2.25.1-JcxvxdKc0Ho9WcM1iVvrDp\libHSunliftio-0.2.25.1-JcxvxdKc0Ho9WcM1iVvrDp.a
+: hash: 593057c1646bd337235924e9fd0453fa66bd091106bf453b1fcb296a620c4d4b
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\vector-algorithms-0.9.1.0-BqhKBjZ2WdiCk4Nt1OJTAt\libHSvector-algorithms-0.9.1.0-BqhKBjZ2WdiCk4Nt1OJTAt.a
+: hash: c2b80e078262774db9a25f194036ab5fad6afebd874e047b5205a20daa49a0e0
+? C:\sr\snapshots\90c95019\lib\x86_64-windows-ghc-9.10.3-b42a\witherable-0.5-HB4KGht5vVtEw2zYC0P4X6\libHSwitherable-0.5-HB4KGht5vVtEw2zYC0P4X6.a
+: hash: a81e1dcf39405f6f3a460e4e87916b40ab4df2942363ed54bc997869d126e981
+D:\backend-haskell\.stack-work\dist\1a191874\build\backend-haskell-exe\autogen\Paths_backend_haskell.hs:
+  hash: 9e26800817b142c87e4c20cb92d26290b4ffb1822e4c003140d5449d278df3bb
+D:\backend-haskell\.stack-work\dist\1a191874\build\backend-haskell-exe\autogen\cabal_macros.h:
+  hash: a68dd8aa94e993c0c124b3c2f6ef84d60b2b1c04620df666f946b2e28039ef55
+D:\backend-haskell\backend-haskell.cabal:
+  hash: b14aa30147eb65f78c2e53acc23f7e7603f519446fe98be0dc5497aa7d9cb90f
+D:\backend-haskell\package.yaml:
+  hash: d27a991c2e0f7affca789016b440170206aedbee173a3f96410fb15a778720ad
+D:\backend-haskell\src\App\APIs.hs:
+  hash: 1e7578db3778565e5b67d70ad2522a2eed4b01129d3e7f39854540cd093028ff
+D:\backend-haskell\src\App\WebSocket.hs:
+  hash: 841a7227b398899aaceda4dd9b5829661a712849b943b16b452ed88aab748b67
+D:\backend-haskell\src\Data\Data.hs:
+  hash: f375aa80a5949e411c25a609b0ac9a82f91c7f855e1a3fb650733ca90b89b6b5
+D:\backend-haskell\src\Domain\Domain.hs:
+  hash: 02af41b361c1a54df7b02186d52e8090b305da9737afd15818f891da8ac54ee3
+D:\backend-haskell\src\Main.hs:
+  hash: f528bb65714b38fad36d7350cb4547692bacd010934ceeb1f174ff91f77d98b9
